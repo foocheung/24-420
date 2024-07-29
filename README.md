@@ -1,4 +1,4 @@
-# 24-420 Batching Project
+# 24-420 Batching For Project
 ## Step 1: Parsing Data for Web Tool 
 ### Summary of Steps
 
